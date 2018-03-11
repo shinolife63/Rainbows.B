@@ -1,0 +1,11 @@
+$
+set n num inp How many fibs?: 
+set a num 0
+set b num 1
+print str 0.0!n1.0!n
+loop 6 10 var n
+set c var b
+add b var a
+set a var c
+print var b
+print str !n

@@ -1,0 +1,28 @@
+Rainbows 2.0
+	Data Types
+	 Str
+	 Num
+	 Var
+	 
+
+Special Characters
+	!t : \t   
+	!n : \n
+
+Variable container
+	Python dict:
+		{
+		'Varname':[dat_type,var_dat]
+		}
+	Functions
+		Set
+			Set [Variable Name] [Data type] [Data]
+		Print
+			Print [Data type] [Data]
+			
+		Math
+		 Add
+			add -1 for sub
+		 Mult
+		 
+		loop
